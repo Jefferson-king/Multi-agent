@@ -2,7 +2,7 @@
 llm:
   provider: "deepseek"
   model: "deepseek-chat"
-  api_key: "sk-dbc16f9e70f24cd7b8430e1f252cd9fa"
+  api_key: "sk-xxxxxxxxxxxx"
   base_url: "https://api.deepseek.com/v1"
   temperature: 0.1
   max_tokens: 2048
